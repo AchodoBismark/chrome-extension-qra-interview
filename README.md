@@ -2,7 +2,7 @@
 
 ## Steps To install this extension on your chrome browser
 
-- Download a Zip file of this repository from [github](https://github.com/AchodoBismark/chrome-extension-qra-interview)
+- Download a Zip file of this repository from [github](https://github.com/AchodoBismark/chrome-extension-qra-interview) through the code button dropdown.
 
 - Unzip the file and take note of the path.
 
