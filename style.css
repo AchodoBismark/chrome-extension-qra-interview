@@ -149,9 +149,21 @@ header{
     font-size: 1.2rem;
 }
 .score__item__details__header__line{
-    border-bottom: 4px solid #FB4000;
     width: 38%;
     margin-bottom: 20px;
+}
+
+.score__item__details__header__line.red{
+    border-bottom: 4px solid #FB4000;
+    color: #FB4000;
+}
+.score__item__details__header__line.orange{
+    border-bottom: 4px solid #E2B05B;
+    color: #E2B05B;
+}
+.score__item__details__header__line.blue{
+    border-bottom: 4px solid #5B8BE2;
+    color: #5B8BE2;
 }
 .score__item__details__content{
     line-height: 1.5rem;
