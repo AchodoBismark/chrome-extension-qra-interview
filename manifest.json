@@ -1,0 +1,11 @@
+{
+    "name": "QRA Interview Test",
+    "description": "A coding interview assignment given to Bismark",
+    "version": "1.0",
+    "manifest_version": 3,
+
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "/Icons/extention-icon.png"
+    }
+}

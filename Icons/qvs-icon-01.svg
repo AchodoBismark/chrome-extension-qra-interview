@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="13px" viewBox="0 0 21 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>QVS-Icon-01</title>
+    <g id="Interviewee-Test" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Interview-Exercise" transform="translate(-1377.000000, -46.000000)" fill-rule="nonzero">
+            <g id="Chrome-Menu-Bar" transform="translate(0.000000, 37.000000)">
+                <g id="QVS-Icon-01" transform="translate(1377.000000, 9.000000)">
+                    <polygon id="Path" fill="#2E5B71" points="12 2 14.8805676 6.72966361 12.6811194 10.3391437 14.3023256 13 21 2"></polygon>
+                    <polygon id="Path" fill="#4489AA" points="12.1951641 1.71535581 11.283247 0 7 0 12.8583765 11 15 6.98127341"></polygon>
+                    <polygon id="Path" fill="#5BB6E2" points="7.20304201 0 3.89666828 0 0 6.5 3.89666828 13 11.6936263 13 15 13"></polygon>
+                    <polygon id="Path" fill="#000000" opacity="0.34" points="14.5610184 13 15 12.2467811 7 0"></polygon>
+                    <polygon id="Path" fill="#000000" opacity="0.34" points="12 2 15 7.12799043 13.2787879 11 12.8727273 10.3038278 14.4606061 7.04545455"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
